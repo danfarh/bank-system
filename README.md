@@ -2,15 +2,20 @@
 This is a Java-based banking system project that includes a graphical user interface (GUI) developed with JavaFX. 
 This project allows users to create bank accounts, deposit and withdraw money, and view their account information. The project is built using object-oriented programming principles.
 
-## Running the Project
-To run the project, follow these steps:
-- Ensure that you have JavaFX installed on your system. If not, you can download it from the official website: https://openjfx.io/
-- Clone the repository to your local machine using git clone https://github.com/danfarh/bank-system.git
-- Open the project in an IDE such as Eclipse or IntelliJ.
-- Build the project and run the BankSystemGUI class.
-- The graphical user interface will appear, allowing you to create accounts, deposit and withdraw money, and check account balances.
-
 ## Features
+### Manager
+#### User Management
+- View account information.
+- View all accounts.
+- Deposit money into an account.
+- Withdraw money from an account.
+- Create a new account.
+#### Account Management
+- View account information.
+- View all accounts.
+- Deposit money into an account.
+- Withdraw money from an account.
+- Create a new account.
 ### Employee
 - Create a new account and set an initial balance for the account.
 - Deposit money into an account.
@@ -20,12 +25,6 @@ To run the project, follow these steps:
 - View account information.
 - Deposit money into an account.
 - Withdraw money from an account.
-### Manager
-- View account information.
-- View all accounts.
-- Deposit money into an account.
-- Withdraw money from an account.
-- Create a new account.
 
 ## Requirements
 To run this project, you will need to have the following installed on your system:
@@ -35,3 +34,12 @@ To run this project, you will need to have the following installed on your syste
 ## Technologies Used
 - Java
 - JavaFX
+- CSS
+
+## Running the Project
+To run the project, follow these steps:
+- Ensure that you have JavaFX installed on your system. If not, you can download it from the official website: https://openjfx.io/
+- Clone the repository to your local machine using git clone https://github.com/danfarh/bank-system.git
+- Open the project in an IDE such as Eclipse or IntelliJ.
+- Build the project and run the BankSystemGUI class.
+- The graphical user interface will appear, allowing you to create accounts, deposit and withdraw money, and check account balances.
