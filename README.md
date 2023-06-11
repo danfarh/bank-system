@@ -26,6 +26,11 @@ To run the project, follow these steps:
 - Withdraw money from an account.
 - Create a new account.
 
+## Requirements
+To run this project, you will need to have the following installed on your system:
+- Java JDK 8 or higher
+- JavaFX libraries
+
 ## Technologies Used
 - Java
 - JavaFX
