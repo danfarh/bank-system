@@ -1,0 +1,87 @@
+#img{
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-color: black;
+}
+#btn{
+    -fx-padding: 5px;
+    -fx-font: normal bold 20px 'serif';
+    -fx-background-color: darkslateblue;
+    -fx-text-fill: white;
+    -fx-background-radius: 50 50 50 50;
+    -fx-alignment: CENTER;
+    -fx-border-width : 4px;
+    -fx-border-color: #8B78D7;
+    -fx-border-radius: 50 50 50 50;
+    -fx-cursor: hand;
+}
+#btn:hover {
+    -fx-background-color: #8B78D7;
+    -fx-border-color:  darkslateblue;
+}
+#btn_Login{
+    -fx-padding: 5px;
+    -fx-font: normal bold 20px 'serif';
+    -fx-background-color: darkslateblue;
+    -fx-text-fill: white;
+    -fx-min-width: 100px;
+    -fx-min-height: 40px;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-width : 2px;
+    -fx-border-color: #8B78D7;
+    -fx-border-radius: 10 10 10 10;
+    -fx-cursor: hand;
+}
+#btn_Login:hover{
+    -fx-background-color: #8B78D7;
+    -fx-border-color:  darkslateblue;
+}
+#bp_Login{
+    -fx-padding: 5px;
+    -fx-font: normal bold 20px 'serif';
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-background-radius: 5 5 5 5;
+    -fx-border-width : 4px;
+    -fx-border-color: #8B78D7;
+    -fx-border-radius: 5 5 5 5;
+    -fx-background-color: #E7E9F2 ;
+    -fx-border-width: 2px;
+}
+#date_Picker{
+    -fx-padding: 5px;
+    -fx-font: normal bold 20px 'serif';
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-background-radius: 50 50 50 50;
+    -fx-border-width : 4px;
+    -fx-border-color: #8B78D7;
+    -fx-border-radius: 50 50 50 50;
+    -fx-min-width: 300px;
+}
+#tables{
+    -fx-border-width:10 10 10 10;
+    -fx-border-color:#f4f4f4;
+}
+#choiceBox{
+    -fx-padding: 5px;
+    -fx-font: normal bold 20px 'serif';
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-background-radius: 50 50 50 50;
+    -fx-border-width : 4px;
+    -fx-border-color: #8B78D7;
+    -fx-border-radius: 50 50 50 50;
+    -fx-min-width: 400px;
+}
+#str_login{
+    -fx-padding: 5px;
+    -fx-font: normal bold 20px 'serif';
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-background-radius: 50 50 50 50;
+    -fx-border-width : 4px;
+    -fx-border-color: #8B78D7;
+    -fx-border-radius: 50 50 50 50;
+}
+
+
