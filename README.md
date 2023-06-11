@@ -5,17 +5,16 @@ This project allows users to create bank accounts, deposit and withdraw money, a
 ## Features
 ### Manager
 #### User Management
-- View account information.
-- View all accounts.
-- Deposit money into an account.
-- Withdraw money from an account.
-- Create a new account.
+- Add/Edit/Delete user.
+- View all users.
+- Search users.
 #### Account Management
+- Create/Update/Delete account.
 - View account information.
 - View all accounts.
+- Search accounts.
 - Deposit money into an account.
 - Withdraw money from an account.
-- Create a new account.
 ### Employee
 - Create a new account and set an initial balance for the account.
 - Deposit money into an account.
