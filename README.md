@@ -1,5 +1,6 @@
 # bank-system
-This is a Java-based banking system project that includes a graphical user interface (GUI) developed with JavaFX. The project allows users to create accounts, deposit and withdraw money, and check their account balance.
+This is a Java-based banking system project that includes a graphical user interface (GUI) developed with JavaFX. 
+This project allows users to create bank accounts, deposit and withdraw money, and view their account information. The project is built using object-oriented programming principles.
 
 ## Running the Project
 To run the project, follow these steps:
@@ -10,7 +11,7 @@ To run the project, follow these steps:
 - The graphical user interface will appear, allowing you to create accounts, deposit and withdraw money, and check account balances.
 
 ## Features
-### User
+### Employee
 - Create a new account and set an initial balance for the account.
 - Deposit money into an account.
 - Withdraw money from an account.
