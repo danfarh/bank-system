@@ -10,21 +10,21 @@ To run the project, follow these steps:
 - The graphical user interface will appear, allowing you to create accounts, deposit and withdraw money, and check account balances.
 
 ## Features
-- User
--- Create a new account and set an initial balance for the account.
--- Deposit money into an account.
--- Withdraw money from an account.
--- View the account balance and account information.
-- Client
--- View account information.
--- Deposit money into an account.
--- Withdraw money from an account.
-- Manager
--- View account information.
--- View all accounts.
--- Deposit money into an account.
--- Withdraw money from an account.
--- Create a new account.
+### User
+- Create a new account and set an initial balance for the account.
+- Deposit money into an account.
+- Withdraw money from an account.
+- View the account balance and account information.
+### Client
+- View account information.
+- Deposit money into an account.
+- Withdraw money from an account.
+### Manager
+- View account information.
+- View all accounts.
+- Deposit money into an account.
+- Withdraw money from an account.
+- Create a new account.
 
 ## Technologies Used
 - Java
